@@ -3,8 +3,8 @@ xxxxxx
 
 ![MIPCLab](https://github.com/MIPCLab/.github/blob/main/profile/logo33.png?random=2 "XX Tool Homepage")
 
+
 ## 📖 About Us
-We are a group of technology enthusiasts, developers/researchers, with a focus on these areas:
 xxxxxx
 
 
